@@ -24,13 +24,9 @@ Frameworks & Libraries:
 javaFx
 
 Tools & Platforms:
+IntelliJ idea
 
 
-
-![Other Tools You Use]
-
-📈 GitHub Stats
-<div> <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=radical" alt="GitHub Streak" width="400"/> </div>
 📂 Projects
 Here are some of my favorite projects:
 
