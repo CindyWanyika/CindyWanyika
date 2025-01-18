@@ -44,7 +44,7 @@ Check out all my projects here!
 
 💬 Let's Connect!
 📫 Reach me at: [cindy.kilonzo@ashesi.edu.gh]
-🌐 Portfolio: [Link to your portfolio or personal website]
+🌐 Portfolio: [cindywanyika.github.io]
 🐦 Twitter: [@ceyyTakes]
 💼 LinkedIn:(https://www.linkedin.com/in/cindy-kilonzo-6660ba2ab/)
 Thanks for stopping by! Feel free to explore my repositories, raise issues, or drop a "Hi!" 😄
